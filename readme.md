@@ -1,7 +1,7 @@
 # QTSSTM4
 
 > QTSSTM4 is a quantitative trading system for digital coin.
-
+![mind Mapping](https://github.com/xiaoyao153379/QTSSTM4/blob/master/PICTURE/Cancel%20order.png?raw=true "result")
 ## Preface
 
 This system is more complex than it, which were released last time. If you are a beginner, you can click the following link. 
