@@ -22,7 +22,7 @@ This system is more complex than it, which were released last time. If you are a
 
 ## How to use it?
 
-**Firstly**, you must set your strategy in "api_strategy" and "bk_strategy". There is some special at the format of the data. For example, ever strategy must be transported these parameters, which are include judge_position, buy_amount, sell_amount, coin_number, principal, order and period.
+**Firstly**, you must set your strategy in "api_strategy" and "bk_strategy".And then, you need to put these strategy to "Process.pool". There is some special at the format of the data. For example, ever strategy must be transported these parameters, which are include judge_position, buy_amount, sell_amount, coin_number, principal, order and period.
 * judge_position: It is a index of judging position.
 * buy_amount: It is a max amount of buying per order.
 * sell_amount: It is a max amount of selling per order.
