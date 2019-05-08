@@ -32,7 +32,7 @@ This system is more complex than it, which were released last time. If you are a
 * period: It is a key of marking table of database.
 
 **Secondly**, you must set database of these system. And you can replace name of table that this system use. And you can find these names in SQL sentence. 
-**Finally**, you can control frequency of obtaining data of order at "CRAW". If there is just a little change on price, you can set a low frequency. In contrast, you can set a high frequency.
+**Finally**, you can control frequency of obtaining data of order at "CRAW". If there is just a little change on price at exchange, you can set a low frequency. In contrast, you can set a high frequency.
 
 ## In addition
 I have not completed "ordercancel", because it is too simple, and you just need to call api of exchange. Besides, I also have not competed executing order, and it is same as the last. 
